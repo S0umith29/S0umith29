@@ -30,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s0umith29&show_icons=true&locale=en&layout=compact" alt="s0umith29" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s0umith29&show_icons=true&locale=en" alt="s0umith29" /></p>
+<p>&nbsp;<img align="center" src="(https://github-readme-stats.vercel.app/api?username=S0umith29&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="s0umith29" /></p>
