@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s0umith29" alt="s0umith29" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Cloud-Native Projects**
+- 👯 I’m looking to collaborate on **Cloud-Native & DevOps Projects**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m open to work
 
-- 👨‍💻 All of my projects are available at [github.com/S0umith29](github.com/S0umith29)
+- 👨‍💻 All of my projects are available on -> [My Github](github.com/S0umith29)
 
-- 💬 Ask me about **DevOps & Site Reliability**
+- 💬 Ask me about -> **DevOps & Site Reliability**
 
-- 📫 How to reach me **soumith.odu@gmail.com**
+- 📫 How to reach me -> **soumith.odu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zWAZujOe8o2TMZKOPyu2OZikGBq12q8B/view?usp=sharing](https://drive.google.com/file/d/1zWAZujOe8o2TMZKOPyu2OZikGBq12q8B/view?usp=sharing)
+- 📄 Know about my experiences -> [Resume](https://drive.google.com/file/d/1zWAZujOe8o2TMZKOPyu2OZikGBq12q8B/view?usp=sharing)
 
 - ⚡ Fun fact **Do you know about "Chaos-Monkey"?**
 
