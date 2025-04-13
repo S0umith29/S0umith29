@@ -3,6 +3,11 @@
 <h1 align="center">Hi there, I'm Sowmith Kuppa 👋</h1>
 <h3 align="center">I am a DevOps & Cloud Enthusiast. Currently Designing Automated Systems for Reliability.</h3>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f209fc45-8223-4406-b885-1da88aeadd9b" alt="gitprofileimage">
+</p>
+
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=s0umith29&label=Profile%20views&color=0e75b6&style=flat" alt="s0umith29" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s0umith29" alt="s0umith29" /></a> </p>
