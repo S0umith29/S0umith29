@@ -24,7 +24,7 @@
 
 - 📫 How to reach me -> **soumith.odu@gmail.com**
 
-- 📄 Know about my experiences -> [Resume](https://drive.google.com/file/d/1zWAZujOe8o2TMZKOPyu2OZikGBq12q8B/view?usp=sharing)
+- 📄 Know about my experiences -> [Resume](https://drive.google.com/file/d/18kUUQ-VeKCxiOwn7sxvbEbEPc-BJ3peB/view?usp=sharing)
 
 - ⚡ Fun fact **Do you know about "Chaos-Monkey"?**
 
