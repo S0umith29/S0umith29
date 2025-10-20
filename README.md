@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there, I'm Sowmith Kuppa 👋</h1>
-<h3 align="center">I am passionate about building reliable AI systems that translate research into measurable real-world impact. </h3>
+<h3 align="center">I am passionate about building reliable AI systems that translate research into real-world impact. </h3>
 
 
 <p align="center">
