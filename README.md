@@ -15,13 +15,11 @@
 
 
 
-- 👯 I’m looking to collaborate on **Cloud-Native & DevOps Projects**
+- 👯 I’m looking to collaborate on **AI/ML & DevOps Projects**
 
 - 🤝 I’m open to work
 
 - 👨‍💻 All of my projects are available on -> [My Github](github.com/S0umith29)
-
-- 💬 Ask me about -> **DevOps & Site Reliability**
 
 - 📫 How to reach me -> **soumith.odu@gmail.com**
 
