@@ -1,12 +1,13 @@
 
 
 <h1 align="center">Hi there, I'm Sowmith Kuppa 👋</h1>
-<h3 align="center">I am a DevOps & Cloud Enthusiast. Currently Designing Automated Systems for Reliability.</h3>
+<h3 align="center">I am passionate about building reliable AI systems that translate research into measurable real-world impact. </h3>
 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f209fc45-8223-4406-b885-1da88aeadd9b" alt="gitprofileimage">
 </p>
+
 
 
 
