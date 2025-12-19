@@ -23,7 +23,7 @@
 
 - 📫 How to reach me -> **soumith.odu@gmail.com**
 
-- 📄 Know about my experiences -> [Resume](https://drive.google.com/file/d/18kUUQ-VeKCxiOwn7sxvbEbEPc-BJ3peB/view?usp=sharing)
+- 📄 Know more about me -> [Portfolio](https://s0umith29.github.io/portfoliio)
 
 - ⚡ Fun fact **Do you know about "Chaos-Monkey"?**
 
