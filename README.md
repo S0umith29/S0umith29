@@ -107,7 +107,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=S0umith29&theme=algolia&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0umith29&theme=algolia&show_icons=true&hide_border=true&layout=compact" width="40%"/>
+  <img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=S0umith29&theme=algolia&show_icons=true&hide_border=true&layout=compact" width="40%"/>
 </p>
 
 ---
